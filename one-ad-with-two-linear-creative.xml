@@ -14,7 +14,7 @@
                 <![CDATA[https://securepubads.g.doubleclick.net/pcs/view?xai=AKAOjsthHCMvpJLnK4JreqBeAEO15UM4-10_KJ4M6KzJUoJJvrp5pRRRsUYawSTH0umc7x9SvHZUiD5iDwJ3he43bRfB5NopLXFxehk6rH4lu5U-LBcKPUech9nitq5p1eUgPrcayyssOfYgnrKvsJqwH_RTD4szm_zZlAXxSckJfPvxPsaAunSCrKS0patMpYLwVziO6ZTP49mJTLYIPt1EFmxe66KZwVJalo63PsLQLwlJrS4Fl6p_FWRg0ipte1MFiPGDTg&sig=Cg0ArKJSzBuWUUWjDi3xEAE&adurl=]]>
             </Impression>
             <Creatives>
-                <Creative id="12345" sequence="1">
+                <Creative id="12345">
                     <Linear>
                         <Duration>00:00:10</Duration>
                         <VideoClicks>
