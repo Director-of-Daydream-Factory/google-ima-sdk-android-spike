@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VAST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="vast.xsd" version="3.0">
+    <Ad id="697203496">
+        <InLine>
+            <AdSystem>GDFP</AdSystem>
+            <AdTitle>External NCA1C1L1 Linear Inline</AdTitle>
+            <Description>
+                <![CDATA[External NCA1C1L1 Linear Inline ad]]>
+            </Description>
+            <Error>
+                <![CDATA[https://pubads.g.doubleclick.net/pagead/conversion/?ai=BR-Qv-9G5X7T7M8an8wOJgYaQDfDYj-sGAAAAEAEgqN27JjgAWNjGssXXAWDZAroBCjcyOHg5MF94bWzIAQXAAgLgAgDqAiUvMTI0MzE5MDk2L2V4dGVybmFsL3NpbmdsZV9hZF9zYW1wbGVz-AKB0h6AAwGQA7AJmAPwAagDAeAEAdIFBhCo9rnMApAGAaAGI6gH7NUbqAfz0RuoB5bYG9gHAeAHC9IIBwiAYRABGB3YCAKACgWYCwE&sigh=SvLkPXHJv8Q&label=videoplayfailed[ERRORCODE]]]>
+            </Error>
+            <Impression>
+                <![CDATA[https://securepubads.g.doubleclick.net/pcs/view?xai=AKAOjsthHCMvpJLnK4JreqBeAEO15UM4-10_KJ4M6KzJUoJJvrp5pRRRsUYawSTH0umc7x9SvHZUiD5iDwJ3he43bRfB5NopLXFxehk6rH4lu5U-LBcKPUech9nitq5p1eUgPrcayyssOfYgnrKvsJqwH_RTD4szm_zZlAXxSckJfPvxPsaAunSCrKS0patMpYLwVziO6ZTP49mJTLYIPt1EFmxe66KZwVJalo63PsLQLwlJrS4Fl6p_FWRg0ipte1MFiPGDTg&sig=Cg0ArKJSzBuWUUWjDi3xEAE&adurl=]]>
+            </Impression>
+            <Creatives>
+                <Creative id="12345" sequence="1">
+                    <Linear>
+                        <Duration>00:00:10</Duration>
+                        <VideoClicks>
+                            <ClickThrough id="GDFP">
+                                <![CDATA[https://taobao.com]]>
+                            </ClickThrough>
+                        </VideoClicks>
+                        <MediaFiles>
+                            <MediaFile id="GDFP" delivery="progressive" width="1280" height="720" type="video/mp4" bitrate="450" scalable="true" maintainAspectRatio="true">
+                                <![CDATA[https://redirector.gvt1.com/videoplayback/id/a33fc5b2685eb16e/itag/15/source/gfp_video_ads/requiressl/yes/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1606035035/sparams/ip,ipbits,expire,id,itag,source,requiressl,acao,mime,ctier/signature/57CC13370A0E5B98087EF716D802EE9D66D82715.69F051E0F0017D332ABC1D7450890D14E989FF2E/key/ck2/file/file.mp4]]>
+                            </MediaFile>
+                            <MediaFile id="GDFP" delivery="progressive" width="176" height="144" type="video/3gpp" bitrate="36" scalable="true" maintainAspectRatio="true">
+                                <![CDATA[https://redirector.gvt1.com/videoplayback/id/a33fc5b2685eb16e/itag/17/source/gfp_video_ads/requiressl/yes/acao/yes/mime/video%2F3gpp/ctier/L/ip/0.0.0.0/ipbits/0/expire/1606035035/sparams/ip,ipbits,expire,id,itag,source,requiressl,acao,mime,ctier/signature/58466B9903E6F417ABE9ABB58E3F08711EC3C5BE.95E186730A3A991F3BF28659341473F2C61BC872/key/ck2/file/file.3gp]]>
+                            </MediaFile>
+                            <MediaFile id="GDFP" delivery="progressive" width="320" height="180" type="video/3gpp" bitrate="69" scalable="true" maintainAspectRatio="true">
+                                <![CDATA[https://redirector.gvt1.com/videoplayback/id/a33fc5b2685eb16e/itag/36/source/gfp_video_ads/requiressl/yes/acao/yes/mime/video%2F3gpp/ctier/L/ip/0.0.0.0/ipbits/0/expire/1606035035/sparams/ip,ipbits,expire,id,itag,source,requiressl,acao,mime,ctier/signature/9812510EC8A0E4733E1633C9B7BB5250D1040507.3874A8AA8A6F59BBD08DD30E9598B247F3FBD66B/key/ck2/file/file.3gp]]>
+                            </MediaFile>
+                            <MediaFile id="GDFP" delivery="progressive" width="640" height="360" type="video/mp4" bitrate="118" scalable="true" maintainAspectRatio="true">
+                                <![CDATA[https://redirector.gvt1.com/videoplayback/id/a33fc5b2685eb16e/itag/18/source/gfp_video_ads/requiressl/yes/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1606035035/sparams/ip,ipbits,expire,id,itag,source,requiressl,acao,mime,ctier/signature/9DDBFC8E7489A9C216D39022B3A6D9F180FCFC1D.789A0CCD420D6DA1A40FF017FF83A55FED516631/key/ck2/file/file.mp4]]>
+                            </MediaFile>
+                            <MediaFile id="GDFP" delivery="progressive" width="640" height="360" type="video/webm" bitrate="119" scalable="true" maintainAspectRatio="true">
+                                <![CDATA[https://redirector.gvt1.com/videoplayback/id/a33fc5b2685eb16e/itag/43/source/gfp_video_ads/requiressl/yes/acao/yes/mime/video%2Fwebm/ctier/L/ip/0.0.0.0/ipbits/0/expire/1606035035/sparams/ip,ipbits,expire,id,itag,source,requiressl,acao,mime,ctier/signature/3559EC23295ABBE5319B56C03A12B9AA964891E4.8FA94B12A73378E0B37B0F711CB38066D5C61C74/key/ck2/file/file.webm]]>
+                            </MediaFile>
+                            <MediaFile id="GDFP" delivery="progressive" width="1280" height="720" type="video/webm" bitrate="229" scalable="true" maintainAspectRatio="true">
+                                <![CDATA[https://redirector.gvt1.com/videoplayback/id/a33fc5b2685eb16e/itag/45/source/gfp_video_ads/requiressl/yes/acao/yes/mime/video%2Fwebm/ctier/L/ip/0.0.0.0/ipbits/0/expire/1606035035/sparams/ip,ipbits,expire,id,itag,source,requiressl,acao,mime,ctier/signature/9ABC236754AD938A2D945512A102C2B9F8566375.0DA41061BF80CBB135EBCD1CF0A3BA4C4C6663C4/key/ck2/file/file.webm]]>
+                            </MediaFile>
+                            <MediaFile id="GDFP" delivery="progressive" width="854" height="480" type="video/webm" bitrate="132" scalable="true" maintainAspectRatio="true">
+                                <![CDATA[https://redirector.gvt1.com/videoplayback/id/a33fc5b2685eb16e/itag/44/source/gfp_video_ads/requiressl/yes/acao/yes/mime/video%2Fwebm/ctier/L/ip/0.0.0.0/ipbits/0/expire/1606035035/sparams/ip,ipbits,expire,id,itag,source,requiressl,acao,mime,ctier/signature/8617933A96E9A9606130756EB8CC6FF31BED8FA5.50542BF98ABE17212EADD894B5511A77287E6504/key/ck2/file/file.webm]]>
+                            </MediaFile>
+                            <MediaFile id="GDFP" delivery="progressive" width="1280" height="720" type="video/mp4" bitrate="241" scalable="true" maintainAspectRatio="true">
+                                <![CDATA[https://redirector.gvt1.com/videoplayback/id/a33fc5b2685eb16e/itag/22/source/gfp_video_ads/requiressl/yes/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1606035035/sparams/ip,ipbits,expire,id,itag,source,requiressl,acao,mime,ctier/signature/473DD35DA4EF449A3550FF621A470F607B906255.90C91321DB153D4AC509FD5538EA12BD4B86925E/key/ck2/file/file.mp4]]>
+                            </MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+                <Creative id="54321" sequence="1">
+                    <Linear>
+                        <Duration>00:00:12</Duration>
+                        <VideoClicks>
+                            <ClickThrough id="GDFP">
+                                <![CDATA[https://baidu.com]]>
+                            </ClickThrough>
+                        </VideoClicks>
+                        <MediaFiles>
+                            <MediaFile id="GDFP" delivery="progressive" width="1280" height="720" type="video/mp4" bitrate="450" scalable="true" maintainAspectRatio="true">
+                                <![CDATA[https://redirector.gvt1.com/videoplayback/id/a33fc5b2685eb16e/itag/15/source/gfp_video_ads/requiressl/yes/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1606035035/sparams/ip,ipbits,expire,id,itag,source,requiressl,acao,mime,ctier/signature/57CC13370A0E5B98087EF716D802EE9D66D82715.69F051E0F0017D332ABC1D7450890D14E989FF2E/key/ck2/file/file.mp4]]>
+                            </MediaFile>
+                            <MediaFile id="GDFP" delivery="progressive" width="176" height="144" type="video/3gpp" bitrate="36" scalable="true" maintainAspectRatio="true">
+                                <![CDATA[https://redirector.gvt1.com/videoplayback/id/a33fc5b2685eb16e/itag/17/source/gfp_video_ads/requiressl/yes/acao/yes/mime/video%2F3gpp/ctier/L/ip/0.0.0.0/ipbits/0/expire/1606035035/sparams/ip,ipbits,expire,id,itag,source,requiressl,acao,mime,ctier/signature/58466B9903E6F417ABE9ABB58E3F08711EC3C5BE.95E186730A3A991F3BF28659341473F2C61BC872/key/ck2/file/file.3gp]]>
+                            </MediaFile>
+                            <MediaFile id="GDFP" delivery="progressive" width="320" height="180" type="video/3gpp" bitrate="69" scalable="true" maintainAspectRatio="true">
+                                <![CDATA[https://redirector.gvt1.com/videoplayback/id/a33fc5b2685eb16e/itag/36/source/gfp_video_ads/requiressl/yes/acao/yes/mime/video%2F3gpp/ctier/L/ip/0.0.0.0/ipbits/0/expire/1606035035/sparams/ip,ipbits,expire,id,itag,source,requiressl,acao,mime,ctier/signature/9812510EC8A0E4733E1633C9B7BB5250D1040507.3874A8AA8A6F59BBD08DD30E9598B247F3FBD66B/key/ck2/file/file.3gp]]>
+                            </MediaFile>
+                            <MediaFile id="GDFP" delivery="progressive" width="640" height="360" type="video/mp4" bitrate="118" scalable="true" maintainAspectRatio="true">
+                                <![CDATA[https://redirector.gvt1.com/videoplayback/id/a33fc5b2685eb16e/itag/18/source/gfp_video_ads/requiressl/yes/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1606035035/sparams/ip,ipbits,expire,id,itag,source,requiressl,acao,mime,ctier/signature/9DDBFC8E7489A9C216D39022B3A6D9F180FCFC1D.789A0CCD420D6DA1A40FF017FF83A55FED516631/key/ck2/file/file.mp4]]>
+                            </MediaFile>
+                            <MediaFile id="GDFP" delivery="progressive" width="640" height="360" type="video/webm" bitrate="119" scalable="true" maintainAspectRatio="true">
+                                <![CDATA[https://redirector.gvt1.com/videoplayback/id/a33fc5b2685eb16e/itag/43/source/gfp_video_ads/requiressl/yes/acao/yes/mime/video%2Fwebm/ctier/L/ip/0.0.0.0/ipbits/0/expire/1606035035/sparams/ip,ipbits,expire,id,itag,source,requiressl,acao,mime,ctier/signature/3559EC23295ABBE5319B56C03A12B9AA964891E4.8FA94B12A73378E0B37B0F711CB38066D5C61C74/key/ck2/file/file.webm]]>
+                            </MediaFile>
+                            <MediaFile id="GDFP" delivery="progressive" width="1280" height="720" type="video/webm" bitrate="229" scalable="true" maintainAspectRatio="true">
+                                <![CDATA[https://redirector.gvt1.com/videoplayback/id/a33fc5b2685eb16e/itag/45/source/gfp_video_ads/requiressl/yes/acao/yes/mime/video%2Fwebm/ctier/L/ip/0.0.0.0/ipbits/0/expire/1606035035/sparams/ip,ipbits,expire,id,itag,source,requiressl,acao,mime,ctier/signature/9ABC236754AD938A2D945512A102C2B9F8566375.0DA41061BF80CBB135EBCD1CF0A3BA4C4C6663C4/key/ck2/file/file.webm]]>
+                            </MediaFile>
+                            <MediaFile id="GDFP" delivery="progressive" width="854" height="480" type="video/webm" bitrate="132" scalable="true" maintainAspectRatio="true">
+                                <![CDATA[https://redirector.gvt1.com/videoplayback/id/a33fc5b2685eb16e/itag/44/source/gfp_video_ads/requiressl/yes/acao/yes/mime/video%2Fwebm/ctier/L/ip/0.0.0.0/ipbits/0/expire/1606035035/sparams/ip,ipbits,expire,id,itag,source,requiressl,acao,mime,ctier/signature/8617933A96E9A9606130756EB8CC6FF31BED8FA5.50542BF98ABE17212EADD894B5511A77287E6504/key/ck2/file/file.webm]]>
+                            </MediaFile>
+                            <MediaFile id="GDFP" delivery="progressive" width="1280" height="720" type="video/mp4" bitrate="241" scalable="true" maintainAspectRatio="true">
+                                <![CDATA[https://redirector.gvt1.com/videoplayback/id/a33fc5b2685eb16e/itag/22/source/gfp_video_ads/requiressl/yes/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1606035035/sparams/ip,ipbits,expire,id,itag,source,requiressl,acao,mime,ctier/signature/473DD35DA4EF449A3550FF621A470F607B906255.90C91321DB153D4AC509FD5538EA12BD4B86925E/key/ck2/file/file.mp4]]>
+                            </MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>
+</VAST>
